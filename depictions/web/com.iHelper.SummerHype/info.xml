@@ -1,0 +1,51 @@
+<package>
+	<id>com.iHelper.SummerHype</id>
+	<name>SummerHype</name>
+	<version>0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<maxOS>14.7</maxOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate | com.spark.snowboard</package>
+	</dependencies>
+	<shortDescription>Chill theme t enjoy summer</shortDescription>
+	<descriptionlist>
+		<description>I hope you will enjoy it :)</description>
+		<links>
+		<link>
+			<name>Follow me for more !</name>
+			<url>https://www.allmylinks.com/ihelper</url>
+		</link>
+		</links>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Overview</description>
+			<image>IMAGE ICI</image>
+		</screenshot>		
+		<screenshot>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>initial release</change>
+		<change>adding main theme</change>
+		<change>adding settings theme</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
